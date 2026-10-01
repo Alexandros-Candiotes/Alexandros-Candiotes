@@ -63,25 +63,6 @@
 
 ---
 
-### 💼 Experience
-
-<table>
-  <tr>
-    <td width="50%">
-      <h4>🏢 IdealSolution</h4>
-      <p><b>Junior Software Developer</b> · <i>Feb 2024 – Present</i></p>
-      <p>Building and maintaining full-stack corporate web apps with Spring Boot, AngularJS and React. Designing and testing RESTful APIs in Java, assisting with AWS deployments, and monitoring app health to improve system stability.</p>
-    </td>
-    <td width="50%">
-      <h4>🌐 Tetrad Group</h4>
-      <p><b>Web Developer</b> · <i>Jul 2023 – Aug 2023</i></p>
-      <p>Built responsive, cross-browser UI features with React, HTML5 and CSS, and integrated frontend components with Salesforce to deliver dynamic, data-driven interfaces.</p>
-    </td>
-  </tr>
-</table>
-
----
-
 ### 📫 Let's Connect
 
 <p align="center">
